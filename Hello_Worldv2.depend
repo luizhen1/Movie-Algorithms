@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673556213 source:e:\disco c\desktop\cursos danki code\lógica de programação\hello_worldv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
